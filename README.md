@@ -1,5 +1,84 @@
 # 💫 About Me:
-Hi, I’m Abhi 👨‍💻<br>I’m a DevOps / Platform Engineer based in Lucknow, India 🇮🇳, with 3.5+ years of experience designing, automating, and operating highly available cloud and hybrid platforms.<br><br>🎓 I completed my Bachelor of Technology from Shri Ramswaroop Memorial College of Engineering and Management (SRMCEM), Lucknow (2018 – 2022) with a CGPA of 8.02.<br><br>🔭 I’m currently working on<br><br>Building and maintaining DevOps and platform reliability solutions for mission-critical systems, focusing on automation, scalability, security, and performance.<br><br>👯 I’m looking to collaborate on<br><br>Cloud-native projects, DevOps automation, CI/CD pipelines, infrastructure-as-code initiatives, and reliability engineering efforts.<br><br>🌱 I’m currently learning<br><br>Advanced AWS services, hybrid cloud architectures, SRE best practices, and improving system observability and reliability.<br><br>💬 Ask me about<br><br>DevOps, AWS, CI/CD, Terraform, monitoring, Linux/Unix, and backend automation.<br><br>🛠️ Technical Skills<br><br>Languages:<br><br>Python<br><br>UniData Pick BASIC<br><br>Platforms & Cloud:<br><br>AWS (EC2, VPC, IAM, S3, CloudWatch)<br><br>Hybrid Cloud<br><br>CI/CD & IaC:<br><br>Jenkins, GitHub Actions<br><br>Terraform<br><br>Monitoring & Reliability:<br><br>Splunk, CloudWatch<br><br>Incident Management, RCA<br><br>⚡ Fun fact<br><br>I enjoy modernizing legacy systems into scalable cloud-native platforms and believe automation is the backbone of reliability 🚀
+# 👋 Hi, I'm Abhishek 👨‍💻
+
+🚀 **DevOps / Platform Engineer** | ☁️ Cloud & Automation | 🔧 Reliability Focused  
+
+I’m a **DevOps / Platform Engineer** based in **Lucknow, India 🇮🇳**, with **3.5+ years of experience** designing, automating, and operating **highly available cloud and hybrid platforms**.  
+I enjoy building **scalable, secure, and reliable systems** with a strong focus on **automation and observability**.
+
+---
+
+## 🎓 Education
+**Bachelor of Technology (B.Tech)**  
+📍 Shri Ramswaroop Memorial College of Engineering and Management (SRMCEM), Lucknow  
+📅 2018 – 2022 | **CGPA: 8.02**
+
+---
+
+## 🔭 What I’m Working On
+- DevOps & Platform Reliability solutions for mission-critical systems  
+- CI/CD automation and infrastructure standardization  
+- Improving system **availability, scalability, and performance**
+
+---
+
+## 👯 Open to Collaborate On
+- Cloud-native & hybrid cloud projects  
+- DevOps automation & CI/CD pipelines  
+- Infrastructure as Code (Terraform)  
+- SRE & reliability engineering initiatives  
+
+---
+
+## 🌱 Currently Learning
+- Advanced **AWS** services & architectures  
+- **Hybrid Cloud** patterns  
+- **SRE best practices**  
+- Observability, monitoring & incident response  
+
+---
+
+## 💬 Ask Me About
+DevOps, AWS, CI/CD, Terraform, Linux/Unix, monitoring, observability, and backend automation.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![UniData](https://img.shields.io/badge/UniData%20Pick%20BASIC-005571?style=for-the-badge)
+
+### ☁️ Cloud & Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🔁 CI/CD & IaC
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### 📊 Monitoring & Reliability
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## ⚡ Fun Fact
+I enjoy **modernizing legacy systems into scalable cloud-native platforms** and believe  
+> **Automation is the backbone of reliability** 🚀
+
+---
+
+⭐️ *Thanks for visiting my profile!*  
+Feel free to connect, collaborate, or explore my repositories.
+
 
 
 # 💻 Tech Stack:
