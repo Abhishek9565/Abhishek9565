@@ -49,12 +49,12 @@ I’m particularly interested in **platform reliability, cloud-native architectu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek9565&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek9565&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek9565&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek9565&layout=compact&theme=tokyonight&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Abhishek9565&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek9565&theme=tokyonight"/>
 </p>
 
 
